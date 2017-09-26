@@ -1,0 +1,6 @@
+{
+  "require": {
+    "scotteh/php-dom-wrapper": "dev-master"
+  }
+}
+
